@@ -1,2 +1,2 @@
-# www.cgpan.cloud
-the website of  cgpan.cloud
+# star.cgpan.cloud
+the webapp of  cgpan.cloud
